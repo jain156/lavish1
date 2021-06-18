@@ -1,0 +1,24 @@
+*{
+	background-color: lightblue;
+}
+.a{
+	border-radius: 100%;
+}
+.b{
+	border-radius:  100% 100% 0%;
+}
+.c{
+	border-radius: 100% 0% 100%;
+}
+.d{
+	border-radius: 25%;
+}
+.e{
+	border-radius: 250px 0px 50px 0px;
+}
+.f{
+	border-radius: 250px 2px 250px 2px;
+}
+.g{
+	border-radius:  0% 100% 100%;
+}
